@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077286284703",
+    "project_id": "fir-hostin-5abae",
+    "storage_bucket": "fir-hostin-5abae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077286284703:android:ace18bb089c612c5bae1aa",
+        "android_client_info": {
+          "package_name": "com.example.e_comm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWzRo0NqwI6ftKOyR2VqVuoaaxXEu_fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

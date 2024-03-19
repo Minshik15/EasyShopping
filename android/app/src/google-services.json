@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433402924529",
+    "project_id": "feisty-lamp-407206",
+    "storage_bucket": "feisty-lamp-407206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433402924529:android:c1d5a2d3b4d9c5506e4850",
+        "android_client_info": {
+          "package_name": "com.example.e_comm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiE3FIWuWsf-1yY-WfhdXKJx5f2t-j7Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
